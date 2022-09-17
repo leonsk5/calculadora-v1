@@ -1,0 +1,24 @@
+(x) html
+  (x) Criar a base html com ajuda do !
+  (x) Alterar titulo e criar h1
+  (x) Criar inputs do tipo number
+  (x) Criar labels com textos dos numeros 
+  (x) Criar button calcular
+  (x) Criar ids para os inputs e button
+
+(x) CSS
+  (x) estilizar o body: cor, padding, font
+  (x) estilizar font da label
+  (x) estilizar os input: tamanho, padding, margin
+
+()Javascript
+  (x) Criar função Start
+  (x) Testar função Start
+  (x) Criar a função Calcular
+  (x) Em start, criar escuta nos ids dos elementos do input
+  (x) Criar evento para o button de click
+  (x) Criar a função de click do botão
+
+  (x) Criar a função calcular[no inicio SOMA]
+
+
